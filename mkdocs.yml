@@ -1,0 +1,27 @@
+site_name: My Docs
+nav:
+  - 初期画面: index.md
+  - introduction.md
+  - material.md
+  - section1:
+      section1-1:
+        section1-1-1:
+          section1-1-1.md
+      section1-2:
+        section1-2-1:
+          section1-2-1.md
+  - section2:
+    - page2-1.md
+    - page2-2.md
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
