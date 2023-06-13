@@ -28,6 +28,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
     - navigation.top
 extra:
   social:
