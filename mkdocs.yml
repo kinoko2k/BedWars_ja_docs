@@ -3,18 +3,16 @@ copyright: "&copy; 2023 Developer:ScreamingSandals Writer:Kinoko_2K"
 
 nav:
   - Home: index.md
-  - introduction.md
-  - material.md
-  - section1:
-      section1-1:
-        section1-1-1:
-          section1-1-1.md
-      section1-2:
-        section1-2-1:
-          section1-2-1.md
-  - section2:
-    - page2-1.md
-    - page2-2.md
+  - アリーナの作成: arena.md
+  - 構成: config.md
+  - コマンドと権限情報: commands.md
+  - お店: shop.md
+  - アップグレード: upgrades.md
+  - PlaceholderAPI情報: placeholderapi.md
+  - 特別なアイテム: specials.md
+  - トラブルシューティングとよくある質問: troubleshooting.md
+  - API情報: api.md
+  - その他: others.md
 theme:
   name: material
   palette:
