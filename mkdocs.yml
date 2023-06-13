@@ -2,7 +2,7 @@ site_name: 【非公式】BedWars (日本語訳Docs)
 copyright: "&copy; 2023 Developer:ScreamingSandals Writer:Kinoko_2K"
 
 nav:
-  - 初期画面: index.md
+  - Home: index.md
   - introduction.md
   - material.md
   - section1:
@@ -27,6 +27,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - navigation.top
 extra:
   social:
     - icon: fontawesome/brands/github
