@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: 【非公式】BedWars (日本語訳Docs)
+copyright: "&copy; 2023 Developer:ScreamingSandals Writer:Kinoko_2K"
+
 nav:
   - 初期画面: index.md
   - introduction.md
@@ -25,3 +27,18 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ScreamingSandals
+    - icon: fontawesome/brands/discord
+      link: https://screamingsandals.org/discord
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - toc:
+      permalink: true
