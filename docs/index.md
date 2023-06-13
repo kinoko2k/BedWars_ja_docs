@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# ScreamingBedWars 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+幅広い「BedWars」Pluginです。以前は、「BedwarsRel」の代替としてプロジェクト化されていました。
+サポートされているバージョン: \[1.8.8 -1.19.4\]　推奨バージョン: \[1.18.2/1.19.4\]
 
-## Commands
+## サポート
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+サポートが必要な場合は、[Discord (Screaming Development)](https://screamingsandals.org/discord)でお問い合わせください。
 
-## Project layout
+サポートを求める前に、この[ドキュメント(英語版の方が情報があります)](https://docs.screamingsandals.org/BedWars/0.2.28/)、サーバーのルール、及び、FAQ を必ずお読みください。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+バグを見つけた場合は、お気軽に[Issues (英語の方のリポジトリに飛びます)](https://github.com/ScreamingSandals/BedWars/issues)に報告してください。開発者が調査します。
+
+## 特徴
+- BedWarsゲームの基本が遊べます（ベッド、チームなど）
+- その他のBedWars以外の種類も豊富です（CakeWars/EggWars/AnchorWars）
+- アリーナごとの複数に対応したお店
+- BungeeCordに対応しています
+- Vaultを使った報酬にも対応しています
+- 観戦モード（スペクテイターモードでゲームを観戦できるようになりました！）
+- ステージの再構築が信じられないほど速いです
+- ロビーでのカウントダウンやゲーム時間によるボスバーやXPバーの表示
+- 壊れやすいブロック（ステージの再構築後に更新されます）・無視されるブロック
+- スペシャルアイテム（RescuePlatform・TNTSheepなど） - ショップで設定可能です！
+- その他、様々な機能があります
