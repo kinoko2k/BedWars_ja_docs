@@ -30,7 +30,10 @@
 !!! note "例"
 
     `/bw admin <アリーナ名> Team spawn Red` - Redチームのスポーン場所を設定する
+
     `/bw admin <アリーナ名> Team spawn Blue` - Blueチームのスポーン場所を設定する
+
     `/bw admin <アリーナ名> Team spawn Yellow` - Yellowチームのスポーン場所を設定する
+    
     `/bw admin <アリーナ名> Team spawn Green` - Greenチームのスポーン場所を設定する
 
